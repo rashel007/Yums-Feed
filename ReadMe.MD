@@ -8,6 +8,8 @@
 7. SearchBar in tableview
 8. Customize View
 9. Collection view Header Footer
+10. Auto Scroll banner
+11. Custom Cells
 
 ### Work In Progress
 ![](/yums_home.png) ![](/yums_category.png) ![](/yums_profile.png) ![SearchView 1](/search1.png) ![Search View 2](/search2.png)
